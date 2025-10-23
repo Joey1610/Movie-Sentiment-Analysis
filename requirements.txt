@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+tensorboard
+matplotlib
+# Core
+tensorflow==2.20.0
+streamlit>=1.30
+
+# Model file support
+h5py>=3.8
+numpy>=1.24
+scikeras
